@@ -1,1 +1,1 @@
-# summer-internship-2025
+# Digital Twin for Vision-Based Robotic Manipulation
